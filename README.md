@@ -14,7 +14,7 @@ Credentials for :point_up_2:
 
 - `bundle install`
 - `rails db:create`
-- `rails db:igrate`
+- `rails db:migrate`
 - `rails db:seed`
 
 ---
