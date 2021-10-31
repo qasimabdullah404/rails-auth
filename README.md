@@ -3,8 +3,11 @@
 ### **[Demo](https://devised.herokuapp.com/ "Demo")**
 
 Credentials for :point_up_2:
+
 **Admin** ['qasim@test.com', 'aabbccddee']
+
 **Seller** ['user@seller.com', '123456']
+
 **Regular User** ['user@reg.com', '123456']
 
 ---
