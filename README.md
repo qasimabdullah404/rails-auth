@@ -1,24 +1,22 @@
-# README
+# Learning Stuff
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### **[Demo](https://devised.herokuapp.com/ "Demo")**
 
-Things you may want to cover:
+Credentials for :point_up_2:
+**Admin** ['qasim@test.com', 'aabbccddee']
+**Seller** ['user@seller.com', '123456']
+**Regular User** ['user@reg.com', '123456']
 
-* Ruby version
+---
 
-* System dependencies
+- `bundle install`
+- `rails db:create`
+- `rails db:igrate`
+- `rails db:seed`
 
-* Configuration
+---
 
-* Database creation
+### Admin Login:
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+**Email** *sally@example.com*
+**Password** _aaaaaaaa_
