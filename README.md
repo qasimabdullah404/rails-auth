@@ -22,4 +22,5 @@ Credentials for :point_up_2:
 ### Admin Login:
 
 **Email** *sally@example.com*
+
 **Password** _aaaaaaaa_
