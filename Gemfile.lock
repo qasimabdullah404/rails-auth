@@ -76,6 +76,7 @@ GEM
       responders
       warden (~> 1.2.3)
     erubi (1.10.0)
+    ffi (1.15.4)
     ffi (1.15.4-x64-mingw32)
     globalid (0.5.2)
       activesupport (>= 5.0)
@@ -91,12 +92,17 @@ GEM
     marcel (1.0.2)
     method_source (1.0.0)
     mini_mime (1.1.2)
+    mini_portile2 (2.6.1)
     minitest (5.14.4)
     msgpack (1.4.2)
     nio4r (2.5.8)
+    nokogiri (1.12.5)
+      mini_portile2 (~> 2.6.1)
+      racc (~> 1.4)
     nokogiri (1.12.5-x64-mingw32)
       racc (~> 1.4)
     orm_adapter (0.5.0)
+    pg (1.2.3)
     pg (1.2.3-x64-mingw32)
     puma (5.5.2)
       nio4r (~> 2.0)
@@ -140,6 +146,8 @@ GEM
       railties (>= 5.0)
     sass-rails (6.0.0)
       sassc-rails (~> 2.1, >= 2.1.1)
+    sassc (2.4.0)
+      ffi (~> 1.9)
     sassc (2.4.0-x64-mingw32)
       ffi (~> 1.9)
     sassc-rails (2.1.2)
@@ -183,6 +191,7 @@ GEM
     zeitwerk (2.5.1)
 
 PLATFORMS
+  ruby
   x64-mingw32
 
 DEPENDENCIES
